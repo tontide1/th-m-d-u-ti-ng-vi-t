@@ -1,5 +1,5 @@
 # Core NLP and ML
-nltk==3.5 # Note: This is an older version. Consider updating (e.g., to ~=3.8.1) if compatible.
+nltk==3.8 # Note: This is an older version. Consider updating (e.g., to ~=3.8.1) if compatible.
 scikit-learn==1.2.2
 dill~=0.3.7 # For model/object serialization
 
@@ -12,10 +12,7 @@ seaborn~=0.13.2 # Statistical data visualization
 
 # Utilities
 tqdm~=4.66.0 # Progress bars
-requests~=2.31.0 # For HTTP requests (e.g., downloading data, if applicable)
-
-# Jupyter Notebook Environment
-ipykernel~=6.29.3 # Core package for Jupyter kernel support
+requests~=2.31.0
 
 streamlit==1.32.0
 numpy==1.24.3
