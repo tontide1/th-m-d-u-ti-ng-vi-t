@@ -1,0 +1,722 @@
+[
+    {
+        "input_unaccented": "deu khong thuc hien duoc",
+        "true_accented": "đều không thực hiện được",
+        "predicted_accented": "đều không thực hiện được"
+    },
+    {
+        "input_unaccented": "nganh sp mau giao gom co he 3 nam danh cho nhung nguoi tn cdsp cac nganh nha tre mau giao mam non va tieu hoc hoac tn dh khoi khxh amp nv",
+        "true_accented": "ngành sp mẫu giáo gồm có hệ 3 năm dành cho những người tn cđsp các ngành nhà trẻ mẫu giáo mầm non và tiểu học hoặc tn đh khối khxh amp nv",
+        "predicted_accented": "ngành sp mẫu giáo gồm có hệ 3 năm dành cho những người tn cdsp cac nganh nhạ trẽ mãu giáo mầm non và tiểu học hoặc tn dh khối khxh amp nv"
+    },
+    {
+        "input_unaccented": "sau 15 nam thuc hien che do cu tuyen 19902005 cac dia phuong da phoi hop voi cac truong tuyen duoc 20590 hoc sinh vao cac truong dh cd thcn trong do co 14476 hoc sinh16541 chi tieu vao cac truong dh cd trung uong dat 875",
+        "true_accented": "sau 15 năm thực hiện chế độ cử tuyển 19902005 các địa phương đã phối hợp với các trường tuyển được 20590 học sinh vào các trường đh cđ thcn trong đó có 14476 học sinh16541 chỉ tiêu vào các trường đh cđ trung ương đạt 875",
+        "predicted_accented": "sau 15 năm thực hiện chế độ cử tuyển 19902005 các địa phương đã phối hợp với các trường tuyển được 20590 học sinh vào các trường dh cd thcn trong đó có 14476 học sinh16541 chỉ tiêu vào các trường dh cd trứng uống đặt 875"
+    },
+    {
+        "input_unaccented": "tphcm dao tao dai hoc cho nguoi sau cai nghien dai hoc moban cong da khai giang lop dai hoc tu xa khoa xa hoi va nhan van dau tien cho hoc vien nguoi sau cai nghien va mot so can bo cong nhan vien cac trung tam giao duc day nghe cua thanh pho",
+        "true_accented": "tphcm đào tạo đại học cho người sau cai nghiện đại học mởbán công đã khai giảng lớp đại học từ xa khoa xã hội và nhân văn đầu tiên cho học viên người sau cai nghiện và một số cán bộ công nhân viên các trung tâm giáo dục dạy nghề của thành phố",
+        "predicted_accented": "tphcm đào tạo đại học cho người sau cai nghiện đại học moban cộng đã khai giảng lớp đại học từ xa khoa xã hội và nhân văn đầu tiên cho học viên người sau cai nghiện và một số cán bộ công nhân viên các trung tâm giáo dục dạy nghề của thành phố"
+    },
+    {
+        "input_unaccented": "tuy nhien so nay chi chiem ty le nho trong tong so hoc sinh duoc thuong diem",
+        "true_accented": "tuy nhiên số này chỉ chiếm tỷ lệ nhỏ trong tổng số học sinh được thưởng điểm",
+        "predicted_accented": "tuy nhiên số này chỉ chiếm tỷ lệ nhỏ trong tổng số học sinh được thưởng điểm"
+    },
+    {
+        "input_unaccented": "theo loi quang cao cua cac trung tam tu van du hoc tim duong du hoc my bang cach nay duoc nhieu cai loi chi phi re thu tuc chung minh tai chinh don gian dac biet phong van xin visa de hon so voi cac chuong trinh du hoc tu tuc thong thuong ma lai khong can phai co diem toefl",
+        "true_accented": "theo lời quảng cáo của các trung tâm tư vấn du học tìm đường du học mỹ bằng cách này được nhiều cái lợi chi phí rẻ thủ tục chứng minh tài chính đơn giản đặc biệt phỏng vấn xin visa dễ hơn so với các chương trình du học tự túc thông thường mà lại không cần phải có điểm toefl",
+        "predicted_accented": "theo lời quảng cáo của các trung tâm tư vấn du học tìm đường du học mỹ bằng cách này được nhiều cái lợi chi phí rẻ thủ tục chứng minh tài chính đơn giản đặc biệt phỏng vấn xin visa dễ hơn so với các chương trình du học tự túc thông thường mà lại không cần phải có điểm toefl"
+    },
+    {
+        "input_unaccented": "don vi nau an phai co hop dong trach nhiem",
+        "true_accented": "đơn vị nấu ăn phải có hợp đồng trách nhiệm",
+        "predicted_accented": "đơn vị nấu ăn phải có hợp đồng trách nhiệm"
+    },
+    {
+        "input_unaccented": "“ keo tren thi ho duoi ”",
+        "true_accented": "“ kéo trên thì hở dưới ”",
+        "predicted_accented": "“ kèo trên thì hở dưới ”"
+    },
+    {
+        "input_unaccented": "ben canh do cac don vi cung can co su doi moi trong suy nghi va phong cach lam viec",
+        "true_accented": "bên cạnh đó các đơn vị cũng cần có sự đổi mới trong suy nghĩ và phong cách làm việc",
+        "predicted_accented": "bên cạnh đó các đơn vị cũng cần có sự đổi mới trong suy nghĩ và phong cách làm việc"
+    },
+    {
+        "input_unaccented": "lai suat ap dung nhu lai suat cho vay doi voi ho gia dinh ngheo",
+        "true_accented": "lãi suất áp dụng như lãi suất cho vay đối với hộ gia đình nghèo",
+        "predicted_accented": "lãi suất áp dụng như lãi suất cho vay đối với hộ gia đình nghèo"
+    },
+    {
+        "input_unaccented": "nhung theo toi benh thanh tich la can nguyen quan trong cua van de nay",
+        "true_accented": "nhưng theo tôi bệnh thành tích là căn nguyên quan trọng của vấn đề này",
+        "predicted_accented": "nhưng theo tôi bệnh thành tích là căn nguyên quan trọng của vấn đề này"
+    },
+    {
+        "input_unaccented": "trong nam 2006 chua co thay doi ve muc hoc phi",
+        "true_accented": "trong năm 2006 chưa có thay đổi về mức học phí",
+        "predicted_accented": "trong năm 2006 chưa có thay đổi về mức học phí"
+    },
+    {
+        "input_unaccented": "tu do rut kinh nghiem de trien khai thi thu rong rai cho hs lop 12 trong ca nuoc vao thang 12006 ”",
+        "true_accented": "từ đó rút kinh nghiệm để triển khai thi thử rộng rãi cho hs lớp 12 trong cả nước vào tháng 12006 ”",
+        "predicted_accented": "từ đó rút kinh nghiệm để triển khai thi thử rộng rãi cho hs lớp 12 trong cả nước vào tháng 12006 ”"
+    },
+    {
+        "input_unaccented": "song thuc te viec ap dung chu truong giam tai voi cac truong tren dia ban thu do ha noi hien nay van the hien su lung tung tu chinh can bo quan ly den giao vien dung lop…",
+        "true_accented": "song thực tế việc áp dụng chủ trương giảm tải với các trường trên địa bàn thủ đô hà nội hiện nay vẫn thể hiện sự lúng túng từ chính cán bộ quản lý đến giáo viên đứng lớp…",
+        "predicted_accented": "song thực tế việc áp dụng chủ trương giảm tải với các trường trên địa bàn thủ đô hà nội hiện nay vẫn thể hiện sự lúng túng từ chính cán bộ quản lý đến giáo viên đứng lop…"
+    },
+    {
+        "input_unaccented": "bo truong hien cam ket “ bo se doi moi trong cach lam thuc hien cac de an lon se xin y kien dong gop rong rai va huy dong doi ngu cac nha khoa hoc tham gia ”",
+        "true_accented": "bộ trưởng hiển cam kết “ bộ sẽ đổi mới trong cách làm thực hiện các đề án lớn sẽ xin ý kiến đóng góp rộng rãi và huy động đội ngũ các nhà khoa học tham gia ”",
+        "predicted_accented": "bộ trưởng hiển cam kết “ bộ sẽ đổi mới trong cách làm thực hiện các đề án lớn sẽ xin ý kiến đóng góp rộng rãi và huy động đội ngũ các nhà khoa học tham gia ”"
+    },
+    {
+        "input_unaccented": "nay kinh te gia dinh cung da kha hon nen ban lai tiep tuc theo hoc",
+        "true_accented": "nay kinh tế gia đình cũng đã khá hơn nên bạn lại tiếp tục theo học",
+        "predicted_accented": "nay kinh tế gia đình cũng đã khá hơn nên bạn lại tiếp tục theo học"
+    },
+    {
+        "input_unaccented": "mot van de duoc bo gddt dua ra lay y kien la chu truong xoa bo bo chu quan doi voi cac truong dai hoc dh",
+        "true_accented": "một vấn đề được bộ gdđt đưa ra lấy ý kiến là chủ trương xóa bỏ bộ chủ quản đối với các trường đại học đh",
+        "predicted_accented": "một vấn đề được bộ gddt dừa ra lấy ý kiến là chủ trương xoả bờ bố chủ quan đội với các trường đại học dh"
+    },
+    {
+        "input_unaccented": "giang ly giai “ do la cach hoc tot nhat ”",
+        "true_accented": "giang lý giải “ đó là cách học tốt nhất ”",
+        "predicted_accented": "giang lý giải “ đó là cách học tốt nhất ”"
+    },
+    {
+        "input_unaccented": "ben canh do rat nhieu nguoi co hoc ham hoc vi nhung da chuyen sang lam cac cong viec khac khong lien quan gi den nghien cuu va giang day van duoc moi lam thanh vien hoi dong cham luan an tham chi la giao su huong dan cho ncs",
+        "true_accented": "bên cạnh đó rất nhiều người có học hàm học vị nhưng đã chuyển sang làm các công việc khác không liên quan gì đến nghiên cứu và giảng dạy vẫn được mời làm thành viên hội đồng chấm luận án thậm chí là giáo sư hướng dẫn cho ncs",
+        "predicted_accented": "bên cạnh đó rất nhiều người có học hàm học vị nhưng đã chuyển sang làm các công việc khác không liên quan gì đến nghiên cứu và giảng dạy vẫn được mời làm thành viên hội đồng chấm luận án thậm chí là giáo sư hướng dẫn cho ncs"
+    },
+    {
+        "input_unaccented": "noi ve nhung bat cap trong quan ly dao tao ts ba tran thi ha khang dinh ve cac van ban phap quy thi khong co van de gi",
+        "true_accented": "nói về những bất cập trong quản lý đào tạo ts bà trần thị hà khẳng định về các văn bản pháp quy thì không có vấn đề gì",
+        "predicted_accented": "nói về những bất cập trong quản lý đào tạo ts bà trần thị hà khẳng định về các văn bản pháp quy thì không có vấn đề gì"
+    },
+    {
+        "input_unaccented": "co nhieu cau tra loi cho cau hoi do",
+        "true_accented": "có nhiều câu trả lời cho câu hỏi đó",
+        "predicted_accented": "có nhiều câu trả lời cho câu hỏi đó"
+    },
+    {
+        "input_unaccented": "thoi gian tra no tinh tu ngay sv ket thuc khoa hoc cho den khi sv tra het no",
+        "true_accented": "thời gian trả nợ tính từ ngày sv kết thúc khóa học cho đến khi sv trả hết nợ",
+        "predicted_accented": "thời gian trả nợ tính từ ngày sv kết thúc khoá học cho đến khi sv trả hết nợ"
+    },
+    {
+        "input_unaccented": "hon 1 trieu usd cho chuong trinh hoc bong aucp mot lop hoc cntt cua dhqg tphcm",
+        "true_accented": "hơn 1 triệu usd cho chương trình học bổng aucp một lớp học cntt của đhqg tphcm",
+        "predicted_accented": "hơn 1 triệu usd cho chương trình học bổng aucp một lớp học cntt của dhqg tphcm"
+    },
+    {
+        "input_unaccented": "mot hanh trinh phieu luu",
+        "true_accented": "một hành trình phiêu lưu",
+        "predicted_accented": "một hành trình phiêu lưu"
+    },
+    {
+        "input_unaccented": "do moi chinh la ngon lua co ich cho ban va cho tat ca tuong lai chung ta",
+        "true_accented": "đó mới chính là ngọn lửa có ích cho bạn và cho tất cả tương lai chúng ta",
+        "predicted_accented": "đó mới chính là ngọn lửa có ích cho bạn và cho tất cả tương lai chúng ta"
+    },
+    {
+        "input_unaccented": "nhieu sv nhan dinh rang trong lop ho dan dan nhung nguoi ban den tu tinh le hau nhu rat it len tieng va cung khong hao hung tham gia cac hoat dong",
+        "true_accented": "nhiều sv nhận định rằng trong lớp họ dần dần những người bạn đến từ tỉnh lẻ hầu như rất ít lên tiếng và cũng không hào hứng tham gia các hoạt động",
+        "predicted_accented": "nhiều sv nhận định rằng trong lớp họ dần dần những người bạn đến từ tỉnh lẻ hầu như rất ít lên tiếng và cũng không hào hứng tham gia các hoạt động"
+    },
+    {
+        "input_unaccented": "tam su voi chung toi nguyen thanh binh nghe an dh ktqd cho biet “ toi khong the hat ho dong kich tham gia clb",
+        "true_accented": "tâm sự với chúng tôi nguyễn thanh bình nghệ an đh ktqd cho biết “ tôi không thể hát hò đóng kịch tham gia clb",
+        "predicted_accented": "tâm sự với chúng tôi nguyễn thanh bình nghệ an dh ktqd cho biết “ tôi không thể hát hò đóng kịch tham gia clb"
+    },
+    {
+        "input_unaccented": "toi cung ngay le tuyen duong thu khoa cac truong dh cd mua tuyen sinh nam 2005 mang ten “ tu hao noi giong tien rong ” da duoc bo gddt trung uong doan ban tu tuong van hoa trung uong phoi hop to chuc tai ha noi",
+        "true_accented": "tối cùng ngày lễ tuyên dương thủ khoa các trường đh cđ mùa tuyển sinh năm 2005 mang tên “ tự hào nòi giống tiên rồng ” đã được bộ gdđt trung ương đoàn ban tư tưởng văn hóa trung ương phối hợp tổ chức tại hà nội",
+        "predicted_accented": "tối cùng ngày lễ tuyên dương thủ khoa các trường dh cd mùa tuyển sinh năm 2005 mang tên “ tự hào nòi giống tiên rồng ” đã được bộ gddt trung ương đoàn ban tư tưởng văn hoá trung ương phối hợp tổ chức tại hà nội"
+    },
+    {
+        "input_unaccented": "ban to chuc da trao 10 phan qua do truong ila viet nam trung tam vien thong ip thuoc spt tai tro va 5 hoc bong hoc tin hoc do trung tam tin hoc truong dh khoa hoc tu nhien tphcm tai tro",
+        "true_accented": "ban tổ chức đã trao 10 phần quà do trường ila việt nam trung tâm viễn thông ip thuộc spt tài trợ và 5 học bổng học tin học do trung tâm tin học trường đh khoa học tự nhiên tphcm tài trợ",
+        "predicted_accented": "ban tổ chức đã trao 10 phần quà do trường ila việt nam trung tâm viễn thông ip thuộc spt tài trợ và 5 học bổng học tin học do trung tâm tin học trường dh khoã hốc tự nhiên tphcm tài trợ"
+    },
+    {
+        "input_unaccented": "sau khi thi toan bo bai thi tnkq se duoc niem phong bao mat chuyen ve cham chung tai trung tam cham thi do bo gddt to chuc",
+        "true_accented": "sau khi thi toàn bộ bài thi tnkq sẽ được niêm phong bảo mật chuyển về chấm chung tại trung tâm chấm thi do bộ gdđt tổ chức",
+        "predicted_accented": "sau khi thi toàn bộ bài thi tnkq sẽ được niêm phong bảo mật chuyển về chấm chung tại trung tâm chấm thi do bộ gddt tỡ chục"
+    },
+    {
+        "input_unaccented": "hien nay thi tot nghiep thpt co 6 mon cac em hoc lech cung kho vuot qua",
+        "true_accented": "hiện nay thi tốt nghiệp thpt có 6 môn các em học lệch cũng khó vượt qua",
+        "predicted_accented": "hiện nay thì tốt nghiệp thpt có 6 môn các em học lệch cũng khó vượt qua"
+    },
+    {
+        "input_unaccented": "viec thuong diem nham khuyen khich giao duc toan dien neu bo quy dinh nay bo gd amp dt co luong toi tinh trang hoc sinh chi tap trung vao 3 mon thi dh",
+        "true_accented": "việc thưởng điểm nhằm khuyến khích giáo dục toàn diện nếu bỏ quy định này bộ gd amp đt có lường tới tình trạng học sinh chỉ tập trung vào 3 môn thi đh",
+        "predicted_accented": "việc thưởng điểm nhằm khuyến khích giáo dục toàn diện nếu bỏ quy định này bộ gd amp dt cồ luông tới tình trạng học sinh chỉ tập trung vào 3 môn thi dh"
+    },
+    {
+        "input_unaccented": "do khong don thuan la su nguong vong ma con la su tri an sau sac",
+        "true_accented": "đó không đơn thuần là sự ngưỡng vọng mà còn là sự tri ân sâu sắc",
+        "predicted_accented": "đó không đơn thuần là sự ngưỡng vọng mà còn là sự tri ân sâu sắc"
+    },
+    {
+        "input_unaccented": "nam 2006 bo gd dt tiep tuc thuc hien tuyen thang vao dh cd doi voi hs doat giai hs gioi quoc gia va quoc te",
+        "true_accented": "năm 2006 bộ gd đt tiếp tục thực hiện tuyển thẳng vào đh cđ đối với hs đoạt giải hs giỏi quốc gia và quốc tế",
+        "predicted_accented": "năm 2006 bộ gd dt tiếp tục thực hiện tuyển thẳng vào dh cd đôi với hs đoạt giải hs giỏi quốc gia và quốc tế"
+    },
+    {
+        "input_unaccented": "thuc an duoc luu mau 24 gio",
+        "true_accented": "thức ăn được lưu mẫu 24 giờ",
+        "predicted_accented": "thức ăn được lưu mẫu 24 giờ"
+    },
+    {
+        "input_unaccented": "neu nhung hs loai nay khong su dung quyen duoc tuyen thang ma du thi vao truong khac thi van duoc cong diem thuong",
+        "true_accented": "nếu những hs loại này không sử dụng quyền được tuyển thẳng mà dự thi vào trường khác thì vẫn được cộng điểm thưởng",
+        "predicted_accented": "nếu những hs loại này không sử dụng quyền được tuyển thẳng mà dự thi vào trường khác thì vẫn được cộng điểm thưởng"
+    },
+    {
+        "input_unaccented": "hien khu vuon 2700 m2 cua anh co 800 goc mai va cac loai cay canh khac",
+        "true_accented": "hiện khu vườn 2700 m2 của anh có 800 gốc mai và các loại cây cảnh khác",
+        "predicted_accented": "hiện khu vườn 2700 m2 của anh có 800 gốc mai và các loại cây cảnh khác"
+    },
+    {
+        "input_unaccented": "ong noi theo toi neu giao cho cac truong duoc tu quan thi nhieu truong se tu vuon len duoc tam co do",
+        "true_accented": "ông nói theo tôi nếu giao cho các trường được tự quản thì nhiều trường sẽ tự vươn lên được tầm cỡ đó",
+        "predicted_accented": "ông nói theo tôi nếu giao cho các trường được tự quản thì nhiều trường sẽ tự vươn lên được tầm cỡ đó"
+    },
+    {
+        "input_unaccented": "ba duong thi truc bach hieu truong truong thpt nguyen thi minh khai quan 3 vi von “ chung ta dieu hanh nha truong trong tam the cua nguoi truong thanh nhung phai mac ao cua con nit keo tren thi ho duoi vuon vai thi so rach ao ”",
+        "true_accented": "bà dương thị trúc bạch hiệu trưởng trường thpt nguyễn thị minh khai quận 3 ví von “ chúng ta điều hành nhà trường trong tâm thế của người trưởng thành nhưng phải mặc áo của con nít kéo trên thì hở dưới vươn vai thì sợ rách áo ”",
+        "predicted_accented": "bà dương thị trúc bạch hiệu trưởng trường thpt nguyễn thị minh khai quận 3 ví von “ chúng ta điều hành nhà trường trong tâm thế của người trưởng thành nhưng phải mặc áo của con nít kéo trên thì hở dưới vươn vai thì sợ rách áo ”"
+    },
+    {
+        "input_unaccented": "anh canh la cong nhan co dien lanh nha o phuong thanh loc ban ngay phai di lam de lo cuoc song gia dinh toi den van cham chi den trung tam de hoc",
+        "true_accented": "anh cảnh là công nhân cơ điện lạnh nhà ở phường thạnh lộc ban ngày phải đi làm để lo cuộc sống gia đình tối đến vẫn chăm chỉ đến trung tâm để học",
+        "predicted_accented": "anh cảnh là công nhân cơ điện lạnh nhà ở phường thạnh lộc ban ngày phải đi làm để lo cuộc sống gia đình tối đến vẫn chăm chỉ đến trung tâm để học"
+    },
+    {
+        "input_unaccented": "thay “ ao moi ” nhu the nao",
+        "true_accented": "thay “ áo mới ” như thế nào",
+        "predicted_accented": "thay “ áo mới ” như thế nào"
+    },
+    {
+        "input_unaccented": "anh huu cho biet nguon thu may thang gan tet cua gia dinh khong duoi 120 trieu dong",
+        "true_accented": "anh hữu cho biết nguồn thu mấy tháng gần tết của gia đình không dưới 120 triệu đồng",
+        "predicted_accented": "anh hữu cho biết nguồn thu mấy tháng gần tết của gia đình không dưới 120 triệu đồng"
+    },
+    {
+        "input_unaccented": "hoc bong cu nhan tai dh canterburry new zealand truong dai hoc canterbury new zealand thong bao cap 8 hoc bong chuong trinh cu nhan cho sinh vien quoc te nop don vao nam hoc thu nhat",
+        "true_accented": "học bổng cử nhân tại đh canterburry new zealand trường đại học canterbury new zealand thông báo cấp 8 học bổng chương trình cử nhân cho sinh viên quốc tế nộp đơn vào năm học thứ nhất",
+        "predicted_accented": "học bổng cử nhân tại dh canterburry new zealand trường đại học canterbury new zealand thông báo cấp 8 học bổng chương trình cử nhân cho sinh viên quốc tế nộp đơn vào năm học thứ nhất"
+    },
+    {
+        "input_unaccented": "hai guong mat tieu bieu duoc nhan hoc bong lawrence sting quy ho tro cong dong qhtcd lawrence sting duoc thanh lap theo quyet dinh cua ubnd tphcm vua qua da ra mat bang viec trao hoc bong lan thu nhat cho 140 hoc sinh sinh vien hs sv dang hoc tap tai tphcm",
+        "true_accented": "hai gương mặt tiêu biểu được nhận học bổng lawrence sting quỹ hỗ trợ cộng đồng qhtcđ lawrence sting được thành lập theo quyết định của ubnd tphcm vừa qua đã ra mắt bằng việc trao học bổng lần thứ nhất cho 140 học sinh sinh viên hs sv đang học tập tại tphcm",
+        "predicted_accented": "hai gương mặt tiêu biểu được nhận học bổng lawrence sting quỹ hỗ trợ cộng đồng qhtcd lawrence sting được thành lập theo quyết định của ubnd tphcm vừa qua đã ra mắt bằng việc trao học bổng lần thứ nhất cho 140 học sinh sinh viên hs sv đang học tập tại tphcm"
+    },
+    {
+        "input_unaccented": "giang day la ca mot nghe thuat",
+        "true_accented": "giảng dạy là cả một nghệ thuật",
+        "predicted_accented": "giảng dạy là cả một nghệ thuật"
+    },
+    {
+        "input_unaccented": "he 5 nam danh cho nhung nguoi tn thpt thcn hoac tuong duong hoac cd dh khong thuoc dien dao tao 3 hoac 35 nam",
+        "true_accented": "hệ 5 năm dành cho những người tn thpt thcn hoặc tương đương hoặc cđ đh không thuộc diện đào tạo 3 hoặc 35 năm",
+        "predicted_accented": "hệ 5 năm dành cho những người tn thpt thcn hoặc tương đương hoặc cd dh khỏng thuộc diện đào tạo 3 hoặc 35 năm"
+    },
+    {
+        "input_unaccented": "chiem so luong hoc sinh bo hoc cao nhat la cap thcs voi tren 3650 em cap thpt gan 2070 em va cap tieu hoc hon 970 em",
+        "true_accented": "chiếm số lượng học sinh bỏ học cao nhất là cấp thcs với trên 3650 em cấp thpt gần 2070 em và cấp tiểu học hơn 970 em",
+        "predicted_accented": "chiếm số lượng học sinh bỏ học cao nhất là cấp thcs với trên 3650 em cấp thpt gần 2070 em và cấp tiểu học hơn 970 em"
+    },
+    {
+        "input_unaccented": "phong vien chat luong luan an thap ngoai ly do nang luc cua nghien cuu sinh ncs con co mot phan trach nhiem cua cac hoi dong danh gia luan an ong nghi sao",
+        "true_accented": "phóng viên chất lượng luận án thấp ngoài lý do năng lực của nghiên cứu sinh ncs còn có một phần trách nhiệm của các hội đồng đánh giá luận án ông nghĩ sao",
+        "predicted_accented": "phóng viên chất lượng luận án thấp ngoài lý do năng lực của nghiên cứu sinh ncs còn có một phần trách nhiệm của các hội đồng đánh giá luận án ông nghĩ sao"
+    },
+    {
+        "input_unaccented": "ma khong chi bo diem thuong hs tot nghiep thpt loai gioi ong hung con de nghi bo diem thuong cua ca hs gioi quoc gia va quoc te",
+        "true_accented": "mà không chỉ bỏ điểm thưởng hs tốt nghiệp thpt loại giỏi ông hưng còn đề nghị bỏ điểm thưởng của cả hs giỏi quốc gia và quốc tế",
+        "predicted_accented": "mà không chỉ bỏ điểm thưởng hs tốt nghiệp thpt loại giỏi ông hưng còn đề nghị bỏ điểm thưởng của cả hs giỏi quốc gia và quốc tế"
+    },
+    {
+        "input_unaccented": "khong noi",
+        "true_accented": "không nổi",
+        "predicted_accented": "không nói"
+    },
+    {
+        "input_unaccented": "nhung sv dang ham ho den lop nhanh chong nhan ra rang giang duong khong co ti gi giong nhung gi ho da thay tren phim anh boi dieu kien vat chat cua nhieu truong con kha kho khan",
+        "true_accented": "những sv đang hăm hở đến lớp nhanh chóng nhận ra rằng giảng đường không có tí gì giống những gì họ đã thấy trên phim ảnh bởi điều kiện vật chất của nhiều trường còn khá khó khăn",
+        "predicted_accented": "những sv đang hăm hở đến lớp nhanh chóng nhận ra rằng giảng đường không có tí gì giống những gì họ đã thấy trên phim ảnh bởi điều kiện vật chất của nhiều trường còn khá khó khăn"
+    },
+    {
+        "input_unaccented": "dac biet co 9 tinh tp dat 100 so xa phuong thi tran co tthtcd la thai binh ninh binh phu tho bac ninh nam dinh vinh phuc da nang hai duong dong thap co 3 tinh thanh sap phu kin tthtcd la ha nam 109116 dong nai 155171 can tho 5768",
+        "true_accented": "đặc biệt có 9 tỉnh tp đạt 100 số xã phường thị trấn có tthtcđ là thái bình ninh bình phú thọ bắc ninh nam định vĩnh phúc đà nẵng hải dương đồng tháp có 3 tỉnh thành sắp phủ kín tthtcđ là hà nam 109116 đồng nai 155171 cần thơ 5768",
+        "predicted_accented": "đặc biệt có 9 tỉnh tp đạt 100 số xã phường thị trấn có tthtcd lá thái bình ninh bình phú thọ bắc ninh nam định vĩnh phúc đà nẵng hải dương đồng tháp có 3 tỉnh thành sắp phủ kín tthtcd lá hà nam 109116 đồng nai 155171 cần thơ 5768"
+    },
+    {
+        "input_unaccented": "de giang duong luon la noi kien thuc duoc chia se can co su cong huong giua “ nghe thuat truyen dat ” cua giang vien va nhiet tinh hoc tap cua sv",
+        "true_accented": "để giảng đường luôn là nơi kiến thức được chia sẻ cần có sự cộng hưởng giữa “ nghệ thuật truyền đạt ” của giảng viên và nhiệt tình học tập của sv",
+        "predicted_accented": "để giảng đường luôn là nơi kiến thức được chia sẻ cần có sự cộng hưởng giữa “ nghệ thuật truyền đạt ” của giảng viên và nhiệt tình học tập của sv"
+    },
+    {
+        "input_unaccented": "ong banh tien long dung la cung hoat dong theo mot quy che cua bo gddt nhung chat luong cac hoi dong rat khac nhau",
+        "true_accented": "ông bành tiến long đúng là cùng hoạt động theo một quy chế của bộ gdđt nhưng chất lượng các hội đồng rất khác nhau",
+        "predicted_accented": "ong bánh tiện lỏng dùng là cùng hoạt động theo một quy chế của bộ gddt nhụng chất lượng các hội đồng rất khác nhau"
+    },
+    {
+        "input_unaccented": "truong tieu hoc thoi tam huyen hoc mon phai hop dong ngoai bien che 33 nguoi de phuc vu ban tru",
+        "true_accented": "trường tiểu học thới tam huyện hóc môn phải hợp đồng ngoài biên chế 33 người để phục vụ bán trú",
+        "predicted_accented": "trường tiểu học thới tam huyện hóc môn phải hợp đồng ngoài biên chế 33 người để phục vụ bán trú"
+    },
+    {
+        "input_unaccented": "so giao duc va dao tao tien hanh kiem tra cac co so vi pham va co bien phap xu ly thong bao ket qua kiem tra xu ly cho ban van hoa xa hoi truoc ngay 15112005",
+        "true_accented": "sở giáo dục và đào tạo tiến hành kiểm tra các cơ sở vi phạm và có biện pháp xử lý thông báo kết quả kiểm tra xử lý cho ban văn hóa xã hội trước ngày 15112005",
+        "predicted_accented": "sở giáo dục và đào tạo tiến hành kiểm tra các cơ sở vi phạm và có biện pháp xử lý thông báo kết quả kiểm tra xử lý cho ban văn hoá xã hội trước ngày 15112005"
+    },
+    {
+        "input_unaccented": "ban than nhung sv nay cung nhan ra rang nhiet huyet cua ho doi voi giang duong duong nhu dang dan ngu quen",
+        "true_accented": "bản thân những sv này cũng nhận ra rằng nhiệt huyết của họ đối với giảng đường dường như đang dần ngủ quên",
+        "predicted_accented": "bản thân những sv này cũng nhận ra rằng nhiệt huyết của họ đối với giảng đường dường như đang dần ngủ quên"
+    },
+    {
+        "input_unaccented": "thuc te kha nhieu luan an chua xuat phat tu yeu cau thuc tien gia tri thuc tien cung nhu khoa hoc khong cao vay giai phap nao cai thien tinh hinh nay",
+        "true_accented": "thực tế khá nhiều luận án chưa xuất phát từ yêu cầu thực tiễn giá trị thực tiễn cũng như khoa học không cao vậy giải pháp nào cải thiện tình hình này",
+        "predicted_accented": "thực tế khá nhiều luận án chưa xuất phát từ yêu cầu thực tiễn giá trị thực tiễn cũng như khoa học không cao vậy giải pháp nào cải thiện tình hình này"
+    },
+    {
+        "input_unaccented": "pho giam doc so giao duc dao tao huynh sanh nhan cho biet nganh dang day manh cac bien phap can thiet nhat de han che tinh trang bo hoc",
+        "true_accented": "phó giám đốc sở giáo dục đào tạo huỳnh sanh nhẫn cho biết ngành đang đẩy mạnh các biện pháp cần thiết nhất để hạn chế tình trạng bỏ học",
+        "predicted_accented": "phó giám đốc sở giáo dục đào tạo huỳnh sanh nhẫn cho biết ngành đang đẩy mạnh các biện pháp cần thiết nhất để hạn chế tình trạng bỏ học"
+    },
+    {
+        "input_unaccented": "bo gd amp dt can phai co noi dung thuc hien ro rang bo se quan ly cai gi truong duoc tu quan ra sao",
+        "true_accented": "bộ gd amp đt cần phải có nội dung thực hiện rõ ràng bộ sẽ quản lý cái gì trường được tự quản ra sao",
+        "predicted_accented": "bộ gd amp dt can phải có nội dung thực hiện rõ ràng bộ sẽ quản lý cái gì trường được tự quản ra sao"
+    },
+    {
+        "input_unaccented": "nguon vu giao duc thuong xuyen bo gddt",
+        "true_accented": "nguồn vụ giáo dục thường xuyên bộ gdđt",
+        "predicted_accented": "nguồn vụ giáo dục thường xuyên bộ gddt"
+    },
+    {
+        "input_unaccented": "huong dan ncs qua tai “ so ”",
+        "true_accented": "hướng dẫn ncs quá tải “ sô ”",
+        "predicted_accented": "hướng dẫn ncs quá tải “ sô ”"
+    },
+    {
+        "input_unaccented": "cao gay anh mat hien lanh va luon… nhin thang chang sv lop kstn bui hoang giang ke ve nhung nguoi ban ma theo cau xung dang la guong hoc gioi hon minh",
+        "true_accented": "cao gầy ánh mắt hiền lành và luôn… nhìn thẳng chàng sv lớp kstn bùi hoàng giang kể về những người bạn mà theo cậu xứng đáng là gương học giỏi hơn mình",
+        "predicted_accented": "cao gầy ánh mắt hiền lành và luon… nhĩn thẵng chẫng sv lớp kstn bùi hoàng giang kể về những người bạn mà theo cậu xứng đáng là gương học giỏi hơn mình"
+    },
+    {
+        "input_unaccented": "de dat ket qua do hs phai no luc cho viec hoc va luyen thi",
+        "true_accented": "để đạt kết quả đó hs phải nỗ lực cho việc học và luyện thi",
+        "predicted_accented": "để đạt kết quả đó hs phải nỗ lực cho việc học và luyện thi"
+    },
+    {
+        "input_unaccented": "khong the khoanh tay ngoi cho bo gddt so gddt ket hop voi so tai chinh so noi vu tphcm se ra huong dan tam thoi ve dinh muc bien che can bo cong chuc vien chuc nhan vien cac truong mam non pho thong va truong truc thuoc so gddt tphcm",
+        "true_accented": "không thể khoanh tay ngồi chờ bộ gdđt sở gdđt kết hợp với sở tài chính sở nội vụ tphcm sẽ ra hướng dẫn tạm thời về định mức biên chế cán bộ công chức viên chức nhân viên các trường mầm non phổ thông và trường trực thuộc sở gdđt tphcm",
+        "predicted_accented": "không thể khoanh tay ngồi chờ bộ gddt sồ gddt két hợp với sở tài chính sở nội vụ tphcm sẽ ra hướng dẫn tạm thời về định mức biên chế cán bộ công chức viên chức nhân viên các trường mầm non phổ thông và trường trực thuộc sở gddt tphcm"
+    },
+    {
+        "input_unaccented": "luc do bo gddt chi dong vai tro tham dinh",
+        "true_accented": "lúc đó bộ gdđt chỉ đóng vai trò thẩm định",
+        "predicted_accented": "lúc đó bộ gddt chì đồng vai trò thẩm định"
+    },
+    {
+        "input_unaccented": "con chi y",
+        "true_accented": "con chị y",
+        "predicted_accented": "con chị y"
+    },
+    {
+        "input_unaccented": "truong cua chung toi co 250 chau nhung chi co 2 cap duong",
+        "true_accented": "trường của chúng tôi có 250 cháu nhưng chỉ có 2 cấp dưỡng",
+        "predicted_accented": "trương của chúng tôi có 250 cháu nhưng chỉ có 2 cấp dưỡng"
+    },
+    {
+        "input_unaccented": "ke nghe nhac nguoi doc truyen noi chuyen phan nhieu bo ra ban ngu",
+        "true_accented": "kẻ nghe nhạc người đọc truyện nói chuyện phần nhiều bò ra bàn ngủ",
+        "predicted_accented": "kè nghệ nhạc người đọc truyện nói chuyện phần nhiều bò ra bàn ngủ"
+    },
+    {
+        "input_unaccented": "den thang 22005 ca nuoc co 4783 tthtcd10765 xa phuong thi tran dat ti le 445 so xa phuong thi tran trong ca nuoc co tthtcd",
+        "true_accented": "đến tháng 22005 cả nước có 4783 tthtcđ10765 xã phường thị trấn đạt tỉ lệ 445 số xã phường thị trấn trong cả nước có tthtcđ",
+        "predicted_accented": "đến tháng 22005 cả nước có 4783 tthtcd10765 xã phường thị trấn đạt tỉ lệ 445 số xã phường thị trấn trong cả nước có tthtcd"
+    },
+    {
+        "input_unaccented": "mot can bo cua so giao duc dao tao cho biet trong hon 6690 hoc sinh bo hoc 3 cap o nam hoc 2004 2005 da so chi vi nguyen nhan chu yeu la mat can ban hoc luc qua yeu",
+        "true_accented": "một cán bộ của sở giáo dục đào tạo cho biết trong hơn 6690 học sinh bỏ học 3 cấp ở năm học 2004 2005 đa số chỉ vì nguyên nhân chủ yếu là mất căn bản học lực quá yếu",
+        "predicted_accented": "một cán bộ của sở giáo dục đào tạo cho biết trong hơn 6690 học sinh bỏ học 3 cấp ở năm học 2004 2005 đa số chỉ vì nguyên nhân chủ yếu là mất căn bản học lực quá yếu"
+    },
+    {
+        "input_unaccented": "cai gia qua re den muc phai giat minh",
+        "true_accented": "cái giá quá rẻ đến mức phải giật mình",
+        "predicted_accented": "cái giá quá rẻ đến mức phải giật mình"
+    },
+    {
+        "input_unaccented": "cung chinh vi qua nhieu “ giai phap ” ma trong buoi lam viec hoi dau thang 112004 voi truong dh kinh te tphcm thu truong banh tien long de nghi truong phai ra soat lai toan bo cac de tai cua ncs boi trong so 97 de tai dang ky co den 57 de tai thien ve giai phap",
+        "true_accented": "cũng chính vì quá nhiều “ giải pháp ” mà trong buổi làm việc hồi đầu tháng 112004 với trường đh kinh tế tphcm thứ trưởng bành tiến long đề nghị trường phải rà soát lại toàn bộ các đề tài của ncs bởi trong số 97 đề tài đăng ký có đến 57 đề tài thiên về giải pháp",
+        "predicted_accented": "cũng chính vì quá nhiều “ giải pháp ” mà trong buổi làm việc hồi đầu tháng 112004 với trường dh kinh tế tphcm thứ trưởng bành tiến long đề nghị trường phải rà soát lại toàn bộ các đề tài của ncs bởi trong số 97 đề tài đăng ký có đến 57 đề tài thiên về giải pháp"
+    },
+    {
+        "input_unaccented": "cac yeu cau cu the tuy tung truong roi nop don vao cac truong dh cd cong dong tai my kem theo bang diem ba nam hoc gan nhat o vn thuong la bang diem lop 9 10 va 11",
+        "true_accented": "các yêu cầu cụ thể tùy từng trường rồi nộp đơn vào các trường đh cđ cộng đồng tại mỹ kèm theo bảng điểm ba năm học gần nhất ở vn thường là bảng điểm lớp 9 10 và 11",
+        "predicted_accented": "các yêu cầu cụ thể tuỳ từng trường rồi nộp đơn vào các trường dh cd cọng đông tại mỹ kèm theo bảng điểm ba năm học gần nhất ở vn thường là bảng điểm lớp 9 10 và 11"
+    },
+    {
+        "input_unaccented": "nguoi hoc it song chi tieu hang nam van tang deu deu nam 2003 chi tieu dao tao ts la 1400 nguoi chi tuyen duoc 1215 nguoi bang 81 chi tieu duoc giao",
+        "true_accented": "người học ít song chỉ tiêu hằng năm vẫn tăng đều đều năm 2003 chỉ tiêu đào tạo ts là 1400 người chỉ tuyển được 1215 người bằng 81 chỉ tiêu được giao",
+        "predicted_accented": "người học ít song chỉ tiêu hằng năm vẫn tăng đều đều năm 2003 chỉ tiêu đào tạo ts là 1400 người chỉ tuyển được 1215 người bằng 81 chỉ tiêu được giao"
+    },
+    {
+        "input_unaccented": "dieu kien du tuyen la nam nu tuoi tu 1828 tot nghiep thpt co kha nang giao tiep tieng anh trinh do a uu tien nguoi biet tieng trung",
+        "true_accented": "điều kiện dự tuyển là nam nữ tuổi từ 1828 tốt nghiệp thpt có khả năng giao tiếp tiếng anh trình độ a ưu tiên người biết tiếng trung",
+        "predicted_accented": "điều kiện dự tuyển là nam nữ tuổi từ 1828 tốt nghiệp thpt có khả năng giao tiếp tiếng anh trình độ a ưu tiên người biết tiếng trung"
+    },
+    {
+        "input_unaccented": "muc cho vay toi da la 3 trieu dongnamsv",
+        "true_accented": "mức cho vay tối đa là 3 triệu đồngnămsv",
+        "predicted_accented": "mức cho vay tối đa là 3 triệu dongnamsv"
+    },
+    {
+        "input_unaccented": "vap phai su phan doi mot ngay truoc phien chat van tai ky hop quoc hoi thu 8 bo truong nguyen minh hien da xin rut de an hoc phi de tiep tuc chinh sua",
+        "true_accented": "vấp phải sự phản đối một ngày trước phiên chất vấn tại kỳ họp quốc hội thứ 8 bộ trưởng nguyễn minh hiển đã xin rút đề án học phí để tiếp tục chỉnh sửa",
+        "predicted_accented": "vấp phải sự phản đối một ngày trước phiên chất vấn tại kỳ họp quốc hội thứ 8 bộ trưởng nguyễn minh hiển đã xin rút đề án học phí để tiếp tục chỉnh sửa"
+    },
+    {
+        "input_unaccented": "hay la toi se trong rat mo nhat ben canh ho",
+        "true_accented": "hay là tôi sẽ trông rất mờ nhạt bên cạnh họ",
+        "predicted_accented": "hay là tôi sẽ trông rất mờ nhạt bên cạnh họ"
+    },
+    {
+        "input_unaccented": "nha ve sinh khong co mui hoi cau thang hanh lang phai luon sach se nhung con nguoi de lam moi truong hoc xanh sach – dep lai khong duoc tinh den",
+        "true_accented": "nhà vệ sinh không có mùi hôi cầu thang hành lang phải luôn sạch sẽ nhưng con người để làm môi trường học xanh sạch – đẹp lại không được tính đến",
+        "predicted_accented": "nhà vệ sinh không có mùi hôi cầu thang hành lang phải luôn sạch sẽ nhưng con người để làm mới trường học xanh sạch – đẹp lại không được tính đến"
+    },
+    {
+        "input_unaccented": "nhung noi that vong mang ten giang duong ay da truc tiep hat mot gao nuoc lanh vao ngon lua nhiet tinh ma cac ban sv da thap len cho minh",
+        "true_accented": "những nỗi thất vọng mang tên giảng đường ấy đã trực tiếp hắt một gáo nước lạnh vào ngọn lửa nhiệt tình mà các bạn sv đã thắp lên cho mình",
+        "predicted_accented": "những nơi thật vộng mậng tẽn giảng đường ấy đã trực tiếp hắt một gáo nước lạnh vào ngọn lửa nhiệt tình mà các bạn sv đã thắp lên cho mình"
+    },
+    {
+        "input_unaccented": "giao duc phai lam gi de gia tang von xa hoi",
+        "true_accented": "giáo dục phải làm gì để gia tăng vốn xã hội",
+        "predicted_accented": "giáo dục phải làm gì để gia tăng vốn xã hội"
+    },
+    {
+        "input_unaccented": "cham dut ngay tinh trang thu chi vo nguyen tac trong truong hoc ngay 1110 ban van hoa xa hoi hdnd tphcm da chinh thuc co van ban de nghi pho chu tich ubnd tphcm nguyen thanh tai va giam doc so giao duc va dao tao chi dao nhac nho uon nan cac truong thu chi vo nguyen tac khong dung voi cac quy dinh cua phap luat hien hanh",
+        "true_accented": "chấm dứt ngay tình trạng thu chi vô nguyên tắc trong trường học ngày 1110 ban văn hóa xã hội hđnd tphcm đã chính thức có văn bản đề nghị phó chủ tịch ubnd tphcm nguyễn thành tài và giám đốc sở giáo dục và đào tạo chỉ đạo nhắc nhở uốn nắn các trường thu chi vô nguyên tắc không đúng với các quy định của pháp luật hiện hành",
+        "predicted_accented": "chấm dứt ngay tình trạng thu chi vô nguyên tắc trong trường học ngày 1110 ban văn hoá xã hội hdnd tphcm đã chính thức có văn bản đề nghị phó chủ tịch ubnd tphcm nguyễn thành tài và giám đốc sở giáo dục và đào tạo chỉ đạo nhắc nhở uốn nắn các trường thu chi vô nguyên tắc không đúng với các quy định của pháp luật hiện hành"
+    },
+    {
+        "input_unaccented": "nhung ngay dau tien ngoi hoc tren giang duong bao nhieu hao huc cua ho duoc chuyen don vao nhung y tuong dong gop cho hoat dong lop nhung tiet hoc cham chu nghe va ghi bai va ca chinh sach ngoai giao rat coi mo voi nhung nguoi ban cung lop cua minh",
+        "true_accented": "những ngày đầu tiên ngồi học trên giảng đường bao nhiêu háo hức của họ được chuyển dồn vào những ý tưởng đóng góp cho hoạt động lớp những tiết học chăm chú nghe và ghi bài và cả chính sách ngoại giao rất cởi mở với những người bạn cùng lớp của mình",
+        "predicted_accented": "những ngày đầu tiên ngồi học trên giảng đường bao nhiêu háo hức của họ được chuyển dồn vào những ý tưởng đóng góp cho hoạt động lớp những tiết học chăm chú nghe và ghi bài và cả chính sách ngoại giao rất cởi mở với những người bạn cùng lớp của mình"
+    },
+    {
+        "input_unaccented": "len thanh pho sv chuan bi tinh than de song trong mot moi truong hoc tap tich cuc thay va tro cung nhau nghien cuu bai hoc mot cach nghiem tuc va tu giac",
+        "true_accented": "lên thành phố sv chuẩn bị tinh thần để sống trong một môi trường học tập tích cực thầy và trò cùng nhau nghiên cứu bài học một cách nghiêm túc và tự giác",
+        "predicted_accented": "lên thành phố sv chuẩn bị tinh thần để sống trong một môi trường học tập tích cực thầy và trò cùng nhau nghiên cứu bài học một cách nghiêm túc và tự giác"
+    },
+    {
+        "input_unaccented": "kha nang hoan thanh ke hoach pho cap trung hoc co so nam 2006 cua binh thuan lieu co the thuc hien duoc khong",
+        "true_accented": "khả năng hoàn thành kế hoạch phổ cập trung học cơ sở năm 2006 của bình thuận liệu có thể thực hiện được không",
+        "predicted_accented": "khả năng hoàn thành kế hoạch phổ cập trung học cơ sở năm 2006 của bình thuận liệu có thể thực hiện được không"
+    },
+    {
+        "input_unaccented": "ket luan cua bo truong bo gd dt nguyen minh hien",
+        "true_accented": "kết luận của bộ trưởng bộ gd đt nguyễn minh hiển",
+        "predicted_accented": "kết luận của bộ trưởng bộ gd dt nguyễn minh hiển"
+    },
+    {
+        "input_unaccented": "so sanh voi cac dieu kien bao dam chat luong nhu doi ngu giang vien co so vat chat thi day qua la “ muc tieu lang man ” cua bo gddt",
+        "true_accented": "so sánh với các điều kiện bảo đảm chất lượng như đội ngũ giảng viên cơ sở vật chất thì đây quả là “ mục tiêu lãng mạn ” của bộ gdđt",
+        "predicted_accented": "so sánh với các điều kiện bảo đảm chất lượng như đội ngũ giảng viên cơ sở vật chất thì đây quả là “ mục tiêu lãng mạn ” của bộ gddt"
+    },
+    {
+        "input_unaccented": "voi tu cach vien pho vien chien luoc va chuong trinh giao duc ong suy nghi gi truoc nhung ky luc kinh hoang cua hoc sinh gioi",
+        "true_accented": "với tư cách viện phó viện chiến lược và chương trình giáo dục ông suy nghĩ gì trước những kỷ lục kinh hoàng của học sinh giỏi",
+        "predicted_accented": "với tư cách viện phó viện chiến lược và chương trình giáo dục ông suy nghĩ gì trước những kỷ lục kinh hoàng của học sinh giỏi"
+    },
+    {
+        "input_unaccented": "mot so dia phuong con chu y tinh them diem uu tien diem thi tay nghe vao ket qua thi tot nghiep thpt de nang so hoc sinh duoc thuong diem",
+        "true_accented": "một số địa phương còn chủ ý tính thêm điểm ưu tiên điểm thi tay nghề vào kết quả thi tốt nghiệp thpt để nâng số học sinh được thưởng điểm",
+        "predicted_accented": "một số địa phương còn chủ ý tính thêm điểm ưu tiên điểm thi tay nghề vào kết quả thi tốt nghiệp thpt để nâng số học sinh được thưởng điểm"
+    },
+    {
+        "input_unaccented": "khai niem “ von xa hoi ” ma cac nha khoa hoc xa hoi va kinh te hoc neu len gan day khong phai la dieu gi hoan toan moi me vi no da tung la nhung dac tinh cua xa hoi ta thoi xa xua niem tin tinh doan ket su chia se nhung gia tri phong tuc tap quan chung trong nen van hoa truyen thong vv",
+        "true_accented": "khái niệm “ vốn xã hội ” mà các nhà khoa học xã hội và kinh tế học nêu lên gần đây không phải là điều gì hoàn toàn mới mẻ vì nó đã từng là những đặc tính của xã hội ta thời xa xưa niềm tin tình đoàn kết sự chia sẻ những giá trị phong tục tập quán chung trong nền văn hóa truyền thống vv",
+        "predicted_accented": "khái niệm “ vốn xã hội ” mà các nhà khoa học xã hội và kinh tế học nêu lên gần đây không phải là điều gì hoàn toàn mới mẻ vì nó đã từng là những đặc tính của xã hội ta thời xa xưa niềm tin tình đoàn kết sự chia sẻ những giá trị phong tục tập quán chung trong nền văn hoá truyền thống vv"
+    },
+    {
+        "input_unaccented": "sang 201 bo truong bo gd amp dt nguyen minh hien da gap go mot so nha khoa hoc nha giao de thong bao va xin y kien dong gop ve nhung van de quan trong cua giao duc se duoc trien khai trong nam nay",
+        "true_accented": "sáng 201 bộ trưởng bộ gd amp đt nguyễn minh hiển đã gặp gỡ một số nhà khoa học nhà giáo để thông báo và xin ý kiến đóng góp về những vấn đề quan trọng của giáo dục sẽ được triển khai trong năm nay",
+        "predicted_accented": "sáng 201 bộ trưởng bộ gd amp dt nguyễn minh hiển đã gặp gỡ một số nhà khoa học nhà giáo để thông báo và xin ý kiến đóng góp về những vấn đề quan trọng của giáo dục sẽ được triển khai trong năm nay"
+    },
+    {
+        "input_unaccented": "ca biet mot so ban con cho rang nhiet huyet chang de lam gi khi ma chang co su danh gia cong bang",
+        "true_accented": "cá biệt một số bạn còn cho rằng nhiệt huyết chẳng để làm gì khi mà chẳng có sự đánh giá công bằng",
+        "predicted_accented": "cá biệt một số bạn còn cho rằng nhiệt huyết chẳng để làm gì khi mà chẳng có sự đánh giá công bằng"
+    },
+    {
+        "input_unaccented": "ba tran thi ha cho biet qua kiem tra tai nhieu co so dao tao sau dh cho thay nhieu mon hoc chi co mot diem thi ket thuc mon hoc chi co chu ky cua mot giang vien tham chi co bang diem khong ghi ngay thang nam thi so tiet",
+        "true_accented": "bà trần thị hà cho biết qua kiểm tra tại nhiều cơ sở đào tạo sau đh cho thấy nhiều môn học chỉ có một điểm thi kết thúc môn học chỉ có chữ ký của một giảng viên thậm chí có bảng điểm không ghi ngày tháng năm thi số tiết",
+        "predicted_accented": "bà trần thị hà cho biết qua kiểm tra tại nhiều cơ sở đào tạo sau dh chỡ thấy nhiều môn học chỉ có một điểm thi kết thúc môn học chỉ có chữ ký của một giảng viên thậm chí có bảng điểm không ghi ngày tháng năm thi số tiết"
+    },
+    {
+        "input_unaccented": "viec tap huan ky thuat lien quan den tat ca cac khau trong qua trinh thi tnkq se duoc tien hanh dai tra tu thang muoi hai",
+        "true_accented": "việc tập huấn kỹ thuật liên quan đến tất cả các khâu trong quá trình thi tnkq sẽ được tiến hành đại trà từ tháng mười hai",
+        "predicted_accented": "việc tập huấn kỹ thuật liên quan đến tất cả các khâu trong quá trình thi tnkq sẽ được tiến hành đại trà từ tháng mười hai"
+    },
+    {
+        "input_unaccented": "xay dung truong dang cap quoc te khong nen xay dung tu dau",
+        "true_accented": "xây dựng trường đẳng cấp quốc tế không nên xây dựng từ đầu",
+        "predicted_accented": "xây dựng trường đẳng cấp quốc tế không nên xây dựng từ đầu"
+    },
+    {
+        "input_unaccented": "chung toi xin gioi thieu hai guong mat tieu bieu duoc nhan hoc bong lan nay",
+        "true_accented": "chúng tôi xin giới thiệu hai gương mặt tiêu biểu được nhận học bổng lần này",
+        "predicted_accented": "chúng tôi xin giới thiệu hai gương mặt tiêu biểu được nhận học bổng lần này"
+    },
+    {
+        "input_unaccented": "cam to giay bao do cac tan sv buoc vao giang duong trong niem tu hao cua cha me lang xom",
+        "true_accented": "cầm tờ giấy báo đỗ các tân sv bước vào giảng đường trong niềm tự hào của cha mẹ làng xóm",
+        "predicted_accented": "cầm tờ giấy báo đỗ các tân sv bước vào giảng đường trong niềm tự hào của cha mẹ làng xóm"
+    },
+    {
+        "input_unaccented": "hoc duoc ky thuat cham soc mai tai cac buoi tap huan o tthtcd nen anh chu dong duoc viec cho mai ra hoa vao dung dip tet",
+        "true_accented": "học được kỹ thuật chăm sóc mai tại các buổi tập huấn ở tthtcđ nên anh chủ động được việc cho mai ra hoa vào đúng dịp tết",
+        "predicted_accented": "học được kỹ thuật chăm sóc mai tại các buổi tập huấn ở tthtcd nển ảnh chủ động được việc cho mai ra hoa vào đúng dịp tết"
+    },
+    {
+        "input_unaccented": "duoc biet ket qua tot nghiep thpt ca nuoc nam 2005 la 9085 thap hon nam 2004 202",
+        "true_accented": "được biết kết quả tốt nghiệp thpt cả nước năm 2005 là 9085 thấp hơn năm 2004 202",
+        "predicted_accented": "được biết kết quả tốt nghiệp thpt cả nước năm 2005 là 9085 thấp hơn năm 2004 202"
+    },
+    {
+        "input_unaccented": "the nhung cung chinh ong long phai thua nhan rang tinh trang sao chep luan an sao chep nhung sang tao cua nguoi khac da den luc phai bao dong",
+        "true_accented": "thế nhưng cũng chính ông long phải thừa nhận rằng tình trạng sao chép luận án sao chép những sáng tạo của người khác đã đến lúc phải báo động",
+        "predicted_accented": "thê nhưng cũng chính ông long phải thừa nhận rằng tình trạng sao chép luận án sao chép những sáng tạo của người khác đã đến lúc phải báo động"
+    },
+    {
+        "input_unaccented": "the nhung theo khao sat ngau nhien cac luan an tai thu",
+        "true_accented": "thế nhưng theo khảo sát ngẫu nhiên các luận án tại thư",
+        "predicted_accented": "thế nhưng theo khảo sát ngẫu nhiên các luận án tại thủ"
+    },
+    {
+        "input_unaccented": "noi ve dieu nay ban nguyen thanh binh nghe an dh ktqd khong ngan ngai boc bach “ ho khong phai lo lang gi ca ho luon tuoi cuoi ho an mac dep va hop mot",
+        "true_accented": "nói về điều này bạn nguyễn thanh bình nghệ an đh ktqd không ngần ngại bộc bạch “ họ không phải lo lắng gì cả họ luôn tươi cười họ ăn mặc đẹp và hợp mốt",
+        "predicted_accented": "nói về điều này bạn nguyễn thanh bình nghệ an dh ktqd không ngần ngại bộc bạch “ họ không phải lo lắng gì cả họ luôn tươi cười họ ăn mặc đẹp và hợp mốt"
+    },
+    {
+        "input_unaccented": "o cac truong dh lon tren the gioi chi co khoang 50 so giao su moi khoa co tu cach day tai bac ts thi o viet nam thay ts huong dan cho tro lam ts la dieu khong co gi la",
+        "true_accented": "ở các trường đh lớn trên thế giới chỉ có khoảng 50 số giáo sư mỗi khoa có tư cách dạy tại bậc ts thì ở việt nam thầy ts hướng dẫn cho trò làm ts là điều không có gì lạ",
+        "predicted_accented": "ơ cac truong dh lọn trên thế giới chỉ có khoảng 50 số giáo sư mỗi khoa có tư cách dạy tại bậc ts thì ở việt nam thầy ts hướng dẫn cho trò làm ts là điều không có gì là"
+    },
+    {
+        "input_unaccented": "khi ma van con chua biet ngay mai minh se an gi sap den sinh nhat dua ban than thi lay gi de mua qua cho no duoc",
+        "true_accented": "khi mà vẫn còn chưa biết ngày mai mình sẽ ăn gì sắp đến sinh nhật đứa bạn thân thì lấy gì để mua quà cho nó được",
+        "predicted_accented": "khi mà vẫn còn chưa biết ngày mai mình sẽ ăn gì sắp đến sinh nhật đứa bạn thân thì lấy gì để mua quà cho nó được"
+    },
+    {
+        "input_unaccented": "tu day cung dat ra van de cong bang trong huong thu giao duc giua ngoai thanh voi noi thanh",
+        "true_accented": "từ đây cũng đặt ra vấn đề công bằng trong hưởng thụ giáo dục giữa ngoại thành với nội thành",
+        "predicted_accented": "từ đây cũng đặt ra vấn đề công bằng trong hưởng thụ giáo dục giữa ngoại thành với nội thành"
+    },
+    {
+        "input_unaccented": "theo ke hoach nam 2004 bo gddt da di kiem tra 20 co so dao tao sau dh",
+        "true_accented": "theo kế hoạch năm 2004 bộ gdđt đã đi kiểm tra 20 cơ sở đào tạo sau đh",
+        "predicted_accented": "theo kế hoạch năm 2004 bộ gddt đá đi kiểm tra 20 cơ sở đào tạo sau dh"
+    },
+    {
+        "input_unaccented": "nam hoc 2005 2006 so hoc sinh khong chiu ra lop lai tap trung o nhung gia dinh co hoan canh kho khan nhat la tran han han vua qua cung da lam anh huong khong it den kinh te gia dinh",
+        "true_accented": "năm học 2005 2006 số học sinh không chịu ra lớp lại tập trung ở những gia đình có hoàn cảnh khó khăn nhất là trận hạn hán vừa qua cũng đã làm ảnh hưởng không ít đến kinh tế gia đình",
+        "predicted_accented": "năm học 2005 2006 số học sinh không chịu ra lớp lại tập trung ở những gia đình có hoàn cảnh khó khăn nhất là trận hạn hán vừa qua cũng đã làm ảnh hưởng không ít đến kinh tế gia đình"
+    },
+    {
+        "input_unaccented": "va mac du ten goi cua chuong trinh la trao doi van hoa nhung trong suy nghi cua nhieu phu huynh va hs day la con duong tat de co the vao thang dh my",
+        "true_accented": "và mặc dù tên gọi của chương trình là trao đổi văn hóa nhưng trong suy nghĩ của nhiều phụ huynh và hs đây là con đường tắt để có thể vào thẳng đh mỹ",
+        "predicted_accented": "và mặc dù tên gọi của chương trình là trao đổi văn hoá nhưng trong suy nghĩ của nhiều phụ huynh và hs đây là con đường tắt để có thể vào thẳng dh mỳ"
+    },
+    {
+        "input_unaccented": "aucp dao tao bac dai hoc va cao hoc cac nganh cong nghe thong tin va quan tri kinh doanh danh cho nhung ung cu vien da tot nghiep thpt dai hoc co bang toefl 500 tro len hoc luc kha gioi",
+        "true_accented": "aucp đào tạo bậc đại học và cao học các ngành công nghệ thông tin và quản trị kinh doanh dành cho những ứng cử viên đã tốt nghiệp thpt đại học có bằng toefl 500 trở lên học lực khá giỏi",
+        "predicted_accented": "aucp đào tạo bậc đại học và cao học các ngành công nghệ thông tin và quản trị kinh doanh dành cho những ứng cử viên đã tốt nghiệp thpt đại học có bằng toefl 500 trở lên học lực khá giỏi"
+    },
+    {
+        "input_unaccented": "moi luan van luan an nhu the nay duoc rao ban voi gia 20000 25000 dong bao cao ve tinh hinh giao duc chinh phu nhan dinh hien tuong hoc gia bang that sao chep luan van luan an dang co xu huong lan rong anh huong xau den chat luong dao tao",
+        "true_accented": "mỗi luận văn luận án như thế này được rao bán với giá 20000 25000 đồng báo cáo về tình hình giáo dục chính phủ nhận định hiện tượng học giả bằng thật sao chép luận văn luận án đang có xu hướng lan rộng ảnh hưởng xấu đến chất lượng đào tạo",
+        "predicted_accented": "mỗi luận văn luận án như thế này được rao bán với giá 20000 25000 đồng báo cáo về tình hình giáo dục chính phủ nhận định hiện tượng học giả bằng thật sao chép luận văn luận án đang có xu hướng lan rộng ảnh hưởng xấu đến chất lượng đào tạo"
+    },
+    {
+        "input_unaccented": "ro rang tat ca cac truong deu phai tuyen them nhieu nhan vien gv",
+        "true_accented": "rõ ràng tất cả các trường đều phải tuyển thêm nhiều nhân viên gv",
+        "predicted_accented": "rõ ràng tất cả các trường đều phải tuyển thêm nhiều nhân viên gv"
+    },
+    {
+        "input_unaccented": "phu huynh cua mot hs hien dang tham gia chuong trinh trao doi van hoa tai bang indiana cho hay ngay khi con ho trung tuyen ky thi slep ky thi kiem tra trinh do tieng anh doi voi cac em hs tham gia chuong trinh nay ho da duoc trung tam tu van rang con ho van co the hoc tiep len cd hoac tham chi la dh o my neu hoc tot",
+        "true_accented": "phụ huynh của một hs hiện đang tham gia chương trình trao đổi văn hóa tại bang indiana cho hay ngay khi con họ trúng tuyển kỳ thi slep kỳ thi kiểm tra trình độ tiếng anh đối với các em hs tham gia chương trình này họ đã được trung tâm tư vấn rằng con họ vẫn có thể học tiếp lên cđ hoặc thậm chí là đh ở mỹ nếu học tốt",
+        "predicted_accented": "phụ huynh của một hs hiện đang tham gia chương trình trao đổi văn hoá tại bang indiana cho hay ngay khi con họ trúng tuyển kỳ thi slep kỳ thi kiểm tra trình độ tiếng anh đối với các em hs tham gia chương trình này họ đã được trung tâm tư vấn rằng con họ vẫn có thể học tiếp lên cd hoặc thậm chí là dh ở mỹ nếu học tốt"
+    },
+    {
+        "input_unaccented": "cac hoc vien sau khi tot nghiep dai hoc se duoc tuyen dung lam viec tai cac truong trung tam hoac se la nong cot cua cac nhom dong dang tai dia phuong khi tro ve cong dong",
+        "true_accented": "các học viên sau khi tốt nghiệp đại học sẽ được tuyển dụng làm việc tại các trường trung tâm hoặc sẽ là nòng cốt của các nhóm đồng đẳng tại địa phương khi trở về cộng đồng",
+        "predicted_accented": "các học viên sau khi tốt nghiệp đại học sẽ được tuyển dụng làm việc tại các trường trung tâm hoặc sẽ là nòng cốt của các nhóm đồng đẳng tại địa phương khi trở về cộng đồng"
+    },
+    {
+        "input_unaccented": "chu truong nay da duoc cac truong dong thuan",
+        "true_accented": "chủ trương này đã được các trường đồng thuận",
+        "predicted_accented": "chủ trương này đã được các trường đồng thuận"
+    },
+    {
+        "input_unaccented": "cung ngay cac hoc vien cua truong ngoai ngu boi duong van hoa quoc hoc phan anh den bao nguoi lao dong viec den nay van chua nhan duoc chung chi cua ky thi nay",
+        "true_accented": "cùng ngày các học viên của trường ngoại ngữ bồi dưỡng văn hóa quốc học phản ánh đến báo người lao động việc đến nay vẫn chưa nhận được chứng chỉ của kỳ thi này",
+        "predicted_accented": "cùng ngày các học viên của trường ngoại ngữ bồi dưỡng văn hoá quốc học phản ánh đến báo người lao động việc đến nay vẫn chưa nhận được chứng chỉ của kỳ thi này"
+    },
+    {
+        "input_unaccented": "thuc tap sinh duoc huong tro cap tu nghiep 650 rmthang tuong duong 2700000 dong",
+        "true_accented": "thực tập sinh được hưởng trợ cấp tu nghiệp 650 rmtháng tương đương 2700000 đồng",
+        "predicted_accented": "thực tập sinh được hưởng trợ cấp từ nghiệp 650 rmthang tương đương 2700000 đồng"
+    },
+    {
+        "input_unaccented": "doi voi cac gia dinh ngheo kho khan phong giao duc cac huyen se ho tro sach vo mien giam tien hoc phi phan cong giao vien day phu dao cho nhung em mat can ban",
+        "true_accented": "đối với các gia đình nghèo khó khăn phòng giáo dục các huyện sẽ hỗ trợ sách vở miễn giảm tiền học phí phân công giáo viên dạy phụ đạo cho những em mất căn bản",
+        "predicted_accented": "đối với các gia đình nghèo khó khăn phòng giáo dục các huyện sẽ hỗ trợ sách vở miễn giảm tiền học phí phân công giáo viên dạy phụ đạo cho những em mất căn bản"
+    },
+    {
+        "input_unaccented": "khoang 9 gio cac chau duoc uong 1 ly sua roi hoc va choi tiep",
+        "true_accented": "khoảng 9 giờ các cháu được uống 1 ly sữa rồi học và chơi tiếp",
+        "predicted_accented": "khoảng 9 giờ các cháu được uống 1 ly sữa rồi học và chơi tiếp"
+    },
+    {
+        "input_unaccented": "ong nguyen tien dat chu tich cong doan nganh gddt tphcm cho biet gv phai chiu giam luong cua minh de bo may nha truong hoat dong suon se",
+        "true_accented": "ông nguyễn tiến đạt chủ tịch công đoàn ngành gdđt tphcm cho biết gv phải chịu giảm lương của mình để bộ máy nhà trường hoạt động suôn sẻ",
+        "predicted_accented": "ông nguyễn tiến đạt chủ tịch công đoàn ngành gddt tphcm cho biết gv phải chịu giảm lương của mình để bộ máy nhà trường hoạt động suôn sẻ"
+    },
+    {
+        "input_unaccented": "tat nhien moi phuong an co uu va nhuoc diem",
+        "true_accented": "tất nhiên mỗi phương án có ưu và nhược điểm",
+        "predicted_accented": "tất nhiên mỗi phương án có ưu và nhược điểm"
+    },
+    {
+        "input_unaccented": "chung toi da phai keu goi thay co giao cac truong den nha tung em de van dong thuyet phuc gia dinh cho cac em den lop",
+        "true_accented": "chúng tôi đã phải kêu gọi thầy cô giáo các trường đến nhà từng em để vận động thuyết phục gia đình cho các em đến lớp",
+        "predicted_accented": "chũng tôi đã phải kêu gọi thầy cô giáo các trường đến nhà từng em để vận động thuyết phục gia đình cho các em đến lớp"
+    },
+    {
+        "input_unaccented": "giu diem san bo diem thuong thac si huynh kim tin dh ban cong ton duc thang phat bieu tai hoi nghi thi va tuyen sinh nam 2006 dau cau truyen hinh tphcm anh n",
+        "true_accented": "giữ điểm sàn bỏ điểm thưởng thạc sĩ huỳnh kim tín đh bán công tôn đức thắng phát biểu tại hội nghị thi và tuyển sinh năm 2006 đầu cầu truyền hình tphcm ảnh n",
+        "predicted_accented": "giữ điểm sàn bỏ điểm thưởng thạc sĩ huỳnh kim tín dh bán công tôn đức thắng phát biểu tại hội nghị thi và tuyển sinh năm 2006 đầu cầu truyền hình tphcm ảnh n"
+    },
+    {
+        "input_unaccented": "giai phap cuoi cung gv chon la chi day nhung kien thuc co ban nhat con thi “ khat ” “ lon len tro hoc… tiep ”",
+        "true_accented": "giải pháp cuối cùng gv chọn là chỉ dạy những kiến thức cơ bản nhất còn thì “ khất ” “ lớn lên trò học… tiếp ”",
+        "predicted_accented": "giải pháp cuối cùng gv chọn là chỉ dạy những kiến thức cơ bản nhất còn thì “ khất ” “ lớn lên trò hoc… tiệp ”"
+    },
+    {
+        "input_unaccented": "bao cao cung cho biet o mot so hoi dong thi ket qua thi thuong thap hon ket qua xep loai hoc luc chung to viec cho diem va danh gia cua giao vien trong qua trinh hoc chua sat voi hoc luc cua hoc sinh",
+        "true_accented": "báo cáo cũng cho biết ở một số hội đồng thi kết quả thi thường thấp hơn kết quả xếp loại học lực chứng tỏ việc cho điểm và đánh giá của giáo viên trong quá trình học chưa sát với học lực của học sinh",
+        "predicted_accented": "báo cáo cũng cho biết ở một số hội đồng thi kết quả thi thường thấp hơn kết quả xếp loại học lực chứng tỏ việc cho điểm và đánh giá của giáo viên trong quá trình học chưa sát với học lực của học sinh"
+    },
+    {
+        "input_unaccented": "gan 1500 hoc sinh binh duong tham du cac em lop 12 tinh binh duong dat cau hoi tia buoi tu van ngay 253",
+        "true_accented": "gần 1500 học sinh bình dương tham dự các em lớp 12 tỉnh bình dương đặt câu hỏi tịa buổi tư vấn ngày 253",
+        "predicted_accented": "gần 1500 học sinh bình dương tham dự các em lớp 12 tỉnh bình dương đặt câu hỏi tịa buổi tư vấn ngày 253"
+    },
+    {
+        "input_unaccented": "tphcm hien co 26 trung tam hoc tap cong dong tthtcd trong do tthtcd phuong thanh loc quan 12 va tthtcd phuong 3 quan go vap la 2 trong nhung tthtcd hoat dong co hieu qua ” ong nguyen van cuong truong phong giao duc thuong xuyen so gddt tphcm cho biet nhu vay",
+        "true_accented": "tphcm hiện có 26 trung tâm học tập cộng đồng tthtcđ trong đó tthtcđ phường thạnh lộc quận 12 và tthtcđ phường 3 quận gò vấp là 2 trong những tthtcđ hoạt động có hiệu quả ” ông nguyễn văn cương trưởng phòng giáo dục thường xuyên sở gdđt tphcm cho biết như vậy",
+        "predicted_accented": "tphcm hiện có 26 trung tâm học tập cộng đồng tthtcd trống do tthtcd phuồng thanh lộc quận 12 và tthtcd phuồng 3 quận gò vấp là 2 trong những tthtcd hoạt động có hiệu quả ” ông nguyễn văn cương trưởng phòng giáo dục thường xuyên sở gddt tphcm cho biết như vậy"
+    },
+    {
+        "input_unaccented": "da vao vu thu hoach danh bat con em chinh la luc luong lao dong dac luc de tro giup gia dinh lam kinh te",
+        "true_accented": "đã vào vụ thu hoạch đánh bắt con em chính là lực lượng lao động đắc lực để trợ giúp gia đình làm kinh tế",
+        "predicted_accented": "đá vào vụ thu hoạch đánh bắt con em chính là lúc lượng lao động đặc lực để trở giúp gia đình làm kinh tế"
+    },
+    {
+        "input_unaccented": "tham chi chu tam hoc tap trong hoan canh nhu the cung khong phai chuyen de",
+        "true_accented": "thậm chí chú tâm học tập trong hoàn cảnh như thế cũng không phải chuyện dễ",
+        "predicted_accented": "thậm chí chú tâm học tập trong hoàn cảnh như thế cũng không phải chuyện dễ"
+    },
+    {
+        "input_unaccented": "thi du trong chuong trinh lop 3 yeu cau hs viet tuong thuat mot buoi le hoi mot van de qua hoc voi lua tuoi nay",
+        "true_accented": "thí dụ trong chương trình lớp 3 yêu cầu hs viết tường thuật một buổi lễ hội một vấn đề quá hóc với lứa tuổi này",
+        "predicted_accented": "thí dụ trong chương trình lớp 3 yêu cầu hs viết tường thuật một buổi lễ hội một vấn đề quá hóc với lứa tuổi này"
+    },
+    {
+        "input_unaccented": "theo nguyen thi lien hieu truong truong tieu hoc trung vuong giam tai khong phai la cat bot chuong trinh ma la gv phai giam yeu cau doi voi hs",
+        "true_accented": "theo nguyễn thị liên hiệu trưởng trường tiểu học trưng vương giảm tải không phải là cắt bớt chương trình mà là gv phải giảm yêu cầu đối với hs",
+        "predicted_accented": "theo nguyễn thị liên hiệu trưởng trường tiểu học trưng vương giảm tải không phải là cắt bớt chương trình mà là gv phải giảm yêu cầu đối với hs"
+    },
+    {
+        "input_unaccented": "nhieu be reo len vi dung mon “ khoai khau ” cua minh la canh khoai mo",
+        "true_accented": "nhiều bé reo lên vì đúng món “ khoái khẩu ” của mình là canh khoai mỡ",
+        "predicted_accented": "nhiều bé reo lên vì đúng món “ khoái khẩu ” của mình là canh khoai mỡ"
+    },
+    {
+        "input_unaccented": "trao doi voi phong vien bao nguoi lao dong ong hoang hung giam doc hoc vien tai chinh cu don vi lien ket voi truong quoc hoc cho biet khoang 2 tuan nua cac thi sinh trung tuyen ky thi nay moi nhan duoc chung chi",
+        "true_accented": "trao đổi với phóng viên báo người lao động ông hoàng hùng giám đốc học viện tài chính cũ đơn vị liên kết với trường quốc học cho biết khoảng 2 tuần nữa các thí sinh trúng tuyển kỳ thi này mới nhận được chứng chỉ",
+        "predicted_accented": "trao đổi với phóng viên báo người lao động ông hoàng hùng giám đốc học viện tài chính cũ đơn vị liên kết với trường quốc học cho biết khoảng 2 tuần nữa các thí sinh trúng tuyển kỳ thi này mới nhận được chứng chỉ"
+    },
+    {
+        "input_unaccented": "nhung cung co nhung ban sv khong the xin them tien cha me va phai kiem viec lam them",
+        "true_accented": "nhưng cũng có những bạn sv không thể xin thêm tiền cha mẹ và phải kiếm việc làm thêm",
+        "predicted_accented": "nhưng cũng có những bạn sv không thể xin thêm tiền cha mẹ và phải kiếm việc làm thêm"
+    },
+    {
+        "input_unaccented": "gs dieu kien nghi bo gddt can tao dieu kien de cac truong dh viet nam co y thuc vuon len va chon mot vai truong dh tap trung dau tu de no tu vuon len thanh nhung dh co dang cap quoc te chu khong nen xay dung tu dau",
+        "true_accented": "gs diệu kiến nghị bộ gdđt cần tạo điều kiện để các trường đh việt nam có ý thức vươn lên và chọn một vài trường đh tập trung đầu tư để nó tự vươn lên thành những đh có đẳng cấp quốc tế chứ không nên xây dựng từ đầu",
+        "predicted_accented": "gs diệu kiến nghị bộ gddt cẫn tạo điều kiện để các trường dh việt nam có ý thức vươn lên và chọn một vài trường dh tap trung đầu tư để nó tự vươn lên thành những dh cổ đang cấp quốc tế chứ không nên xây dựng từ đầu"
+    },
+    {
+        "input_unaccented": "hien aucp dang tuyen sinh cao hoc va dai hoc cho khoa hoc thang 52006 thi sinh nop ho so tai 166 nguyen van thu quan 1",
+        "true_accented": "hiện aucp đang tuyển sinh cao học và đại học cho khóa học tháng 52006 thí sinh nộp hồ sơ tại 166 nguyễn văn thủ quận 1",
+        "predicted_accented": "hiện aucp đang tuyển sinh cao học và đại học cho khoá học tháng 52006 thí sinh nộp hồ sơ tại 166 nguyễn văn thụ quận 1"
+    },
+    {
+        "input_unaccented": "dieu do lam toi e ngai ”",
+        "true_accented": "điều đó làm tôi e ngại ”",
+        "predicted_accented": "điều đó làm tôi e ngại ”"
+    },
+    {
+        "input_unaccented": "bai thi duoc cham bang may quet chuyen dung cai dat phan mem cham thi",
+        "true_accented": "bài thi được chấm bằng máy quét chuyên dụng cài đặt phần mềm chấm thi",
+        "predicted_accented": "bài thi được chấm bằng máy quét chuyên dụng cài đặt phần mềm chấm thi"
+    },
+    {
+        "input_unaccented": "doi voi cap tieu hoc o nhung vung sau vung xa de han che hoc sinh bo hoc du co 15 em van phai mo lop",
+        "true_accented": "đối với cấp tiểu học ở những vùng sâu vùng xa để hạn chế học sinh bỏ học dù có 15 em vẫn phải mở lớp",
+        "predicted_accented": "đối với cấp tiểu học ở những vùng sâu vùng xa để hạn chế học sinh bỏ học dù có 15 em vẫn phải mở lớp"
+    },
+    {
+        "input_unaccented": "hoc vien cua tthtcd thuoc nhieu lua tuoi khac nhau nhieu nguoi da co gia dinh nhung do nhan thuc duoc tam quan trong cua viec hoc nen ho van khac phuc kho khan de theo hoc",
+        "true_accented": "học viên của tthtcđ thuộc nhiều lứa tuổi khác nhau nhiều người đã có gia đình nhưng do nhận thức được tầm quan trọng của việc học nên họ vẫn khắc phục khó khăn để theo học",
+        "predicted_accented": "học viên của tthtcd thuốc nhiều lứa tuổi khác nhau nhiều người đã có gia đình nhưng do nhận thức được tầm quan trọng của việc học nên họ vẫn khắc phục khó khăn để theo học"
+    },
+    {
+        "input_unaccented": "viec dang ky va tuyen chon duoc tien hanh toan bo qua mang cua vef la mot qua trinh canh tranh cong khai ma dinh diem la cuoc thi van dap tai ha noi va tphcm vao thang 6",
+        "true_accented": "việc đăng ký và tuyển chọn được tiến hành toàn bộ qua mạng của vef là một quá trình cạnh tranh công khai mà đỉnh điểm là cuộc thi vấn đáp tại hà nội và tphcm vào tháng 6",
+        "predicted_accented": "việc đăng ký và tuyển chọn được tiến hành toàn bộ qua mạng của vef là một quá trình cạnh tranh công khai mà đỉnh điểm là cuộc thi vấn đáp tại hà nội và tphcm vào tháng 6"
+    },
+    {
+        "input_unaccented": "dan chung cu the la bai “ trao doi chat trong co the con nguoi ” gv buoc phai giang cho hs hieu ve moi quan he giua cac co quan trong co the chuc nang cua co quan nay hoat dong phoi hop voi cac co quan khac nhu the nao khi nao mau co mau do tuoi do sam vong tuan hoan to nho…",
+        "true_accented": "dẫn chứng cụ thể là bài “ trao đổi chất trong cơ thể con người ” gv buộc phải giảng cho hs hiểu về mối quan hệ giữa các cơ quan trong cơ thể chức năng của cơ quan này hoạt động phối hợp với các cơ quan khác như thế nào khi nào máu có màu đỏ tươi đỏ sẫm vòng tuần hoàn to nhỏ…",
+        "predicted_accented": "dẫn chứng cụ thể là bài “ trao đổi chất trong cơ thể con người ” gv buộc phải giảng cho hs hiểu về mối quan hệ giữa các cơ quan trong cơ thể chức năng của cơ quan này hoạt động phối hợp với các cơ quan khác như thế nào khi nào máu có màu đỏ tươi đỏ sẫm vòng tuần hoàn to nho…"
+    },
+    {
+        "input_unaccented": "day la viec se mo dau cho lo trinh ap dung rong rai phuong thuc thi nay o tat ca cac mon thi tru mon van trong hai nam tiep theo",
+        "true_accented": "đây là việc sẽ mở đầu cho lộ trình áp dụng rộng rãi phương thức thi này ở tất cả các môn thi trừ môn văn trong hai năm tiếp theo",
+        "predicted_accented": "đây là việc sẽ mở đầu cho lộ trình áp dụng rộng rãi phương thức thi này ở tất cả các môn thi trừ môn văn trong hai năm tiếp theo"
+    },
+    {
+        "input_unaccented": "trong cuoc dua vao dai hoc 2 diem la rat lon va trong nhieu truong hop no mang y nghia quyet dinh",
+        "true_accented": "trong cuộc đua vào đại học 2 điểm là rất lớn và trong nhiều trường hợp nó mang ý nghĩa quyết định",
+        "predicted_accented": "trong cuộc đua vào đại học 2 điểm là rất lớn và trong nhiều trường hợp nó mang ý nghĩa quyết định"
+    }
+]
