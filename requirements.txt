@@ -15,4 +15,3 @@ tqdm~=4.66.0 # Progress bars
 requests~=2.31.0
 
 streamlit==1.32.0
-numpy==1.24.3
